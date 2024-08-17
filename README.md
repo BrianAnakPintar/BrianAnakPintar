@@ -1,4 +1,4 @@
-# Welcome.<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog-img.luanruisong.com%2Fblog%2Fimg%2F20210304140340.gif&f=1&nofb=1&ipt=3a11d4b86aded7bf3021370f80fc056e78d3e2521609d65478a30ce315e273f5&ipo=images" alt="Simple Images" title="Simple Image" width="70"/>
+# Welcome.<img src="Dancing Gopher.gif" alt="go-img" title="Simple Image" width="70"/>
 
 My name is Brian. I'm currently an Honours Computer Science student at UBC. Here are some things I made:
 
